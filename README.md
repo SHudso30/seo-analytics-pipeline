@@ -51,4 +51,7 @@ To verify database truth and capture high-value target keywords, I execute a str
 
 - **Technical Intent:** Writing crisp SQL strings wrapped in Pandas `.read_sql_query()` validates that I understand how to converse seamlessly between data frames and database server engines to extract business insights.
 
+---
 
+## Technical Reference & Architecture Docs
+- **Structural Table Schema:** [Data Dictionary Documentation](./docs/data_dictionary.md)
